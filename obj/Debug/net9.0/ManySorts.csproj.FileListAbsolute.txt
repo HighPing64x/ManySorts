@@ -1,0 +1,14 @@
+D:\.C#\ManySorts\bin\Debug\net9.0\ManySorts.exe
+D:\.C#\ManySorts\bin\Debug\net9.0\ManySorts.deps.json
+D:\.C#\ManySorts\bin\Debug\net9.0\ManySorts.runtimeconfig.json
+D:\.C#\ManySorts\bin\Debug\net9.0\ManySorts.dll
+D:\.C#\ManySorts\bin\Debug\net9.0\ManySorts.pdb
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.GeneratedMSBuildEditorConfig.editorconfig
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.AssemblyInfoInputs.cache
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.AssemblyInfo.cs
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.csproj.CoreCompileInputs.cache
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.dll
+D:\.C#\ManySorts\obj\Debug\net9.0\refint\ManySorts.dll
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.pdb
+D:\.C#\ManySorts\obj\Debug\net9.0\ManySorts.genruntimeconfig.cache
+D:\.C#\ManySorts\obj\Debug\net9.0\ref\ManySorts.dll
