@@ -2,6 +2,7 @@
 --- 
 ## 一个C#小玩意
 放了一些排序算法进去
+使用MIT协议
 
 1. Bubble Sort
 2. Selection Sort
